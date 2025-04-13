@@ -1,5 +1,3 @@
----
-
 # CI/CD with Docker
 
 This project sets up a CI pipeline using GitHub Actions that:
